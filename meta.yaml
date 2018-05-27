@@ -3,8 +3,8 @@ package:
   version: latest
 
 source:
-  git_rev:
-  git_url:
+  git_rev: master
+  git_url: git@github.com:JoonasMelin/coinbot.git
 
 requirements:
   host:
